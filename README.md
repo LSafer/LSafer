@@ -21,9 +21,9 @@
 
 
 ## Q and A:
-- 🔭 I’m currently working on a Java Framework
+- 🔭 I’m currently working on a Java Framework.
 - 🌱 I’m currently learning how to live a typical life.
-- 👯 I’m looking to collaborate on `Java ❤️`, `Groovy 💖`, `Node.js 🥀`, `Android Apps 👀`.
+- 👯 I’m looking to collaborate on `Java ❤️`, `Groovy 💖`, `Kotlin 🥰`, `Node.js 🥀`, `Ktor 🧐`, `Android Apps 👀`.
 - 🤔 I’m looking for help with `Php 🤮`.
 - 💬 Ask me about anything in `Java ❤️`.
 - 📫 How to reach me: LSafer@cufy.org or [LSafer.net](https://lsafer.net)
