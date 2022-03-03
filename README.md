@@ -5,6 +5,9 @@ I'm currently working full time on a company and got zero
 free time to contribute on open source 😢💔
 <br>
 I'll be back sometime in the future 😃
+<br>
+I might make some open-source projects needed by the company!
+You might follow my company account: @lsafer-agile
 
 ---
 
