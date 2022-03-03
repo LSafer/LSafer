@@ -7,7 +7,7 @@ free time to contribute on open source 😢💔
 I'll be back sometime in the future 😃
 <br>
 I might make some open-source projects needed by the company!
-You might follow my company account: @lsafer-agile
+You might follow my company account: [LSafer - Progspace](https://github.com/lsafer-agile)
 
 ---
 
