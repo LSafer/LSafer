@@ -21,13 +21,7 @@ You might follow my company account: [LSafer - Progspace](https://github.com/lsa
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jamplate&repo=processor&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/jamplate/processor)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jamplate&repo=gradle&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/jamplate/gradle)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=framework&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/framework)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyx&repo=support&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyx/support)
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=nodes&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/nodes)
-
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=http&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/http)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyx&repo=http&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyx/http)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LSafer&repo=edgeseek&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/LSafer/edgeseek)
 
