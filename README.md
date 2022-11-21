@@ -1,9 +1,8 @@
 # LSafer is here!
 
-I'm Sulaiman Oboody, a full stack developer (for money 🙄).
-
-I love building libraries, frameworks and programming languages. 
-I just love generalizing things. I am even attempting to create 
+I'm Sulaiman Oboody, a full stack developer (for money 🙄).<br/>
+I love building libraries, frameworks and programming languages.<br/>
+I just love generalizing things. I am even attempting to create<br/>
 a general language compiler/parser/interpreter toolkit!
 
 ---
