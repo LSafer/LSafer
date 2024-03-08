@@ -16,7 +16,7 @@ Waiting for someday I see the end<br/>
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jamplate&repo=jamplate&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/jamplate/jamplate)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=graphtkt&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/graphtkt)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=graphkt&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/graphkt)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=moonkit&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/moonkit)
 
