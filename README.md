@@ -1,9 +1,8 @@
 # LSafer is here!
 
 I'm Sulaiman Oboody, a full stack developer (for money 🙄).<br/>
-I love building libraries, frameworks and programming languages.<br/>
-I just love generalizing things. I am even attempting to create<br/>
-a general language compiler/parser/interpreter toolkit!
+Nothing interseting about me.<br/>
+Waiting for someday I see the end<br/>
 
 ---
 
@@ -17,17 +16,17 @@ a general language compiler/parser/interpreter toolkit!
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jamplate&repo=jamplate&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/jamplate/jamplate)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=kaguya&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/kaguya)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=graphtkt&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/graphtkt)
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=mangaka&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/mangaka)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=moonkit&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/cufyorg/moonkit)
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=LSafer&repo=edgeseek&show_owner=1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/LSafer/edgeseek)
 
 ## Q and A:
-- 🔭 I’m currently working on a General Language Compiler Toolkit.
-- 🌱 I’m currently learning how to live a typical life.
-- 👯 I’m looking to collaborate on `Java`, `Groovy`, `Kotlin`, `Nextjs`, `Ktor`, `Jetpack Compose`.
-- 😤 I hate `Php`, `Javascript`
-- 💬 Ask me about anything in `Java`, `Kotlin`, `Nextjs`
-- 📫 How to reach me: LSafer@cufy.org or [LSafer.net](https://lsafer.net)
-- ⚡ Fun fact: LSafer stands for "Life Safer". Oh, wait, it might be "Little Safer". Is it "Lemon Safer"? Or is it "Lasagna"? Hmmmmm,....!
+- 🔭 I’m currently working on something bigger than me and my pathetic skills.
+- 🌱 I’m currently learning how to make my afterlife better.
+- 👯 I’m looking to collaborate on Nothing. Just leave me alone.
+- 😤 I hate everything and everyone including myself and my precious car.
+- 💬 Ask me about anything in anything. I just know.
+- 📫 How to reach me: lsafer@cufy.org or [lsafer.net](https://lsafer.net)
+- ⚡ Fun fact: LSafer stands for Nothing. Why do you care?
