@@ -1,6 +1,6 @@
 # LSafer is here!
 
-I'm Sulaiman Oboody, a full stack developer (for money 🙄).<br/>
+I'm Sulaiman Oboody, yet another nobody.<br/>
 Nothing interseting about me.<br/>
 Waiting for someday I see the end<br/>
 
@@ -26,7 +26,7 @@ Waiting for someday I see the end<br/>
 - 🔭 I’m currently working on something bigger than me and my pathetic skills.
 - 🌱 I’m currently learning how to make my afterlife better.
 - 👯 I’m looking to collaborate on Nothing. Just leave me alone.
-- 😤 I hate everything and everyone including myself and my precious car.
-- 💬 Ask me about anything in anything. I just know.
-- 📫 How to reach me: lsafer@cufy.org or [lsafer.net](https://lsafer.net)
-- ⚡ Fun fact: LSafer stands for Nothing. Why do you care?
+- 😤 I hate everything and everyone including myself and my wifus (excluding Kaguya, Miku and Charlotte Linlin).
+- 💬 Why are you asking me questions? are you the police?
+- 📫 How to reach me: just don't bother, I won't respond anyway.
+- ⚡ Fun fact: I have so many siblings. But, no wifes. Not even a single wife. I am so lonely. Boohoo.
