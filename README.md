@@ -1,8 +1,8 @@
-# LSafer is here!
+# LSafer is [redacted]
 
 I'm Sulaiman Oboody, yet another [redacted].<br/>
-Nothing interesting about [redacted].<br/>
-Waiting for someday I see the [redacted]<br/>
+Nothing [redacted] about [redacted].<br/>
+Waiting for [redacted] I see the [redacted]<br/>
 
 ## Q and A:
 - 🔭 I’m currently [redacted] on [redacted]
