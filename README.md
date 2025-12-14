@@ -1,7 +1,5 @@
-# Sulaiman Oboody
-
 I use these names:
-- Sulaiman
+- Sulaiman Oboody
 - SMN
 - Abu Jafas
 - LSafer
@@ -9,3 +7,9 @@ I use these names:
 - LaHumanOz
 - Sxyz
 - Selmenneh
+
+I worked or am working in:
+- cufy.org
+- jamplate.org
+- ProgSpaceSA
+- meemer.com
