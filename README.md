@@ -13,3 +13,10 @@ I worked or am working at:
 - jamplate.org
 - progspace.sa
 - meemer.com
+
+My current wifus:
+- Hatsune Miku
+- Kaguya Shinomiya
+- Charlotte Linlin
+- Kagamine Rin
+- Yae Miko
