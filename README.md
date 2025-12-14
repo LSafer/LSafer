@@ -8,8 +8,8 @@ I use these names:
 - Sxyz
 - Selmenneh
 
-I worked or am working in:
+I worked or am working at:
 - cufy.org
 - jamplate.org
-- ProgSpaceSA
+- progspace.sa
 - meemer.com
