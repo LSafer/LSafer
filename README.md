@@ -1,7 +1,7 @@
 I use these names:
 - Sulaiman Oboody
 - SMN
-- Abu Jafas
+- Abu J3fs
 - LSafer
 - Abu Dawood
 - LaHumanOz
